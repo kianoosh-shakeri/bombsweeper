@@ -1,0 +1,3 @@
+﻿  BombSweeper.cpp
+c:\users\kianoosh\source\repos\bombsweeper\bombsweeper\bombsweeper.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BombSweeper.vcxproj -> c:\users\kianoosh\source\repos\BombSweeper\Debug\BombSweeper.exe
